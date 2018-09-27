@@ -1,3 +1,3 @@
 # hello-world
-just another repository
+just another repository.
 This is my first Github programme
